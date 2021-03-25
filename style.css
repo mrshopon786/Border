@@ -1,0 +1,69 @@
+*{
+	margin: 0;
+	padding:0;
+
+}
+
+body{
+	background: #c7ecee;
+}
+
+.rec{
+	width: 800px;
+	height: 400px;
+	margin: 0 auto;
+	margin-top: 50px;
+	background: green;
+
+}
+
+.cir{
+	width: 300px;
+	height: 300px;
+	margin: 0 auto;
+	margin-top: -348px;
+	background: red;
+	border: 2px solid red;
+	border-radius: 50%;
+}
+
+.bor{
+	width: 500px;
+	height: 500px;
+	margin-top: 160px;
+    margin-left: 454px;
+	border: 10px solid black;
+	border-style: dashed dotted solid double;
+    border-color: red green #4834d4 gold;
+    outline: 10px solid green;
+    outline-offset: 5px;
+
+}
+
+.h2{
+	font-size: 2em;
+	text-align: center;
+	margin-top: 56px;
+	color: green;
+}
+.h2 span{
+	color: red;
+}
+
+.bor h1 {
+	text-align: center;
+	padding: 10px;
+	font-size: 3em;
+	color: green;
+	
+}
+
+.bor p{
+
+	padding: 10px;
+	font-style: italic;
+	color: red;
+	font-size: 30px;
+	text-align: justify;
+}
+
