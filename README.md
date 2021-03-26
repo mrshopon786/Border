@@ -1,2 +1,2 @@
 # Border
-MR
+All rights reserved by Mahmudur Rahman.
